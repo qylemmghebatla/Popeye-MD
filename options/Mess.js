@@ -1,20 +1,20 @@
 /* BASE ORI CREATED By Zero YT7
 Follow Me On All Sosial Media
-❑ My Youtube : Zero YT7
-❑ My Instagram : @Zero_YT7
-❑ My Github : Zero-YT7
+❑ My Youtube : G ADA
+❑ My Instagram : @jstme._____
+❑ My Github : qylemmghebatla
 
 Link Sosial Media Me
-❑ Youtube : https://youtube.com/ZeroYT7
-❑ Instagram : https://instagram.com/Zero_YT7
-❑ Github : https://github.com/Zero-YT7
+❑ Youtube : https://youtube.com
+❑ Instagram : https://instagram.com/jstme._____
+❑ Github : https://github.com/qylemmghebatla
 
 Donate Me For Support
 ❑ https://sociabuzz.com/ZeroYT7/tribe
 */
 
 /* JIKA INGIN ORDER KEBUTUHAN BOT
-SILAHKAN CEK DI WEBSITE SHOP SAYA
+SILAHKAN CHAT NOMBOR SAYA
 ❑ https://zeroyt7.biz.id
 
 /* BASE SCRIPT INI BARU JADI DAN MASIH FRESH
@@ -23,7 +23,7 @@ SILAHKAN CEK DI WEBSITE SHOP SAYA
 ❑ KEREN
 JIKA INGIN BELI YG FULL NO ENC / FULL FITUR
 BISA LNGSUNG HUBUNGI SAYA
-NO WA : 085157740529
+NO WA : 0177302593
 */
 
 const fs = require('fs')
